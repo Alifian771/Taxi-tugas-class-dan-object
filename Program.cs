@@ -14,7 +14,7 @@ namespace TugasClassDanObject
 
             taxi.DriverName = "Bambang";
             taxi.OnDuty = true;
-            taxi.NumbOfPassenger = 10;
+            taxi.NumbOfPassenger = 17;
 
             taxi.TaxiInfo();
             taxi.PickUpPassenger();
